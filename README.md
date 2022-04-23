@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradnyasangoram
-- 👀 I’m interested in data Science and Data Analysis
+- 👀 I’m interested in DATA (Data Science and Data Analysis)
 - 🌱 I’m currently practicing my Data Analysis And Data Science Skills
 - 📫 Reach me via email: pradnyasangoram@gmail.com 
 
