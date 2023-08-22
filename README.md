@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pradnyasangoram
 - 👀 I’m interested in DATA (Data Science, Data Engineer and Data Analysis)
 - 🌱 I’m currently practicing my Data Analysis And Data Science Skills
+- Microsoft Certified Azure Data Engineer Associate DP-203
 - 📫 Reach me via email: pradnya.r.sangoram@gmail.com 
 
 <!---
